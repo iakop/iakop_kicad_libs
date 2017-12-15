@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM360
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+#End Doc Library
