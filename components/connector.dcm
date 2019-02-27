@@ -112,4 +112,9 @@ $CMP THERMOCOUPLE
 D Thermocouple Jack
 $ENDCMP
 #
-#End Doc Library
+$CMP DUAL_USB_A
+D Dual USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
